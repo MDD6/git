@@ -1,11 +1,4 @@
 # RPG Educativo para Aprender Git e GitHub
-
-Olá, Mestre Dresch!
-
-Este README apresenta visão geral, estrutura, instruções de instalação e descrição das fases do jogo educativo que ensina Git e GitHub através da metáfora de cultivar uma planta. Sinta-se à vontade para ajustar ou personalizar conforme necessário.
-
----
-
 ## Sumário
 
 1. [Visão Geral](#visão-geral)
